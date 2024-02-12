@@ -6,4 +6,9 @@
     <string name="calculate_tip_btn_txt">Calculate Tip</string>
     <string name="tip_each_person">Tip each person: %s</string>
     <string name="amount_each_person">Amount each person: %s</string>
+    <string name="author">Lakshay Kamat</string>
+    <string name="author_bio">Lakshay Kamat, a passionate Android developer adept in Java/Kotlin, UI/UX design, and backend integration. Dedicated to crafting intuitive, efficient apps with attention to detail and a commitment to continuous learning and improvement.</string>
+    <string name="author_github_link">https://www.github.com/lakshaykamat</string>
+    <string name="repo_link">https://www.github.com/lakshaykamat/tipX</string>
+    <string name="about_app">Effortlessly calculate tips with our user-friendly app. Tailored for seamless usability, it simplifies tip calculations, ensuring a hassle-free dining experience. Make tipping a breeze with our intuitive Tip Calculator app.</string>
 </resources>

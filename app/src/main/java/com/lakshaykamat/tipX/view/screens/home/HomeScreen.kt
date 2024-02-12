@@ -55,7 +55,7 @@ fun HomeScreen(nav: NavController) {
         ) {
             IconButton(
                 onClick = {
-                    nav.navigate(Screen.InformationScreen.toString())
+                    nav.navigate(Screen.InformationScreen.route)
                 }
             ) {
                 Icon(imageVector = Icons.Filled.Info, contentDescription = null)
