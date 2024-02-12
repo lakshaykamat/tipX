@@ -1,6 +1,6 @@
 package com.lakshaykamat.tipX.view.screens
 
-enum class Screen {
-    Homescreen,
-    InformationScreen
+sealed class Screen (val route:String){
+    object HomeScreen:Screen("home_screen")
+    object InformationScreen:Screen("information_screen")
 }
